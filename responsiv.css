@@ -799,7 +799,7 @@
   }
   .touch h1 {
     color: rgb(250, 247, 247);
-    font-size: 6vw;
+    font-size: 9vw;
     margin-left: 10vw;
     margin-top: 10vh;
     font-weight: bolder;
@@ -817,12 +817,13 @@
     justify-content: center;
   }
   .uss button {
-    width: 18vw;
-    height: 4vh;
-    font-size: 2.8vw;
+    width: 22vw;
+    height: 5vh;
+    font-size: 3vw;
     background-color: rgb(255, 77, 0);
     border: rgb(245, 64, 13);
     color: white;
+    margin-left: 30px;
   }
   .contact {
     width: 100%;
@@ -848,7 +849,7 @@
   }
   .fo {
     width: 92%;
-    height: 350px;
+    height: 398px;
     background-color: rgb(176, 175, 173);
     box-shadow: 2px 2px 8px;
     padding: 10px;
@@ -903,21 +904,24 @@
     left: 50px;
     padding: 5px;
     border: none;
+    width: 46%;
   }
   .no2 input {
     position: relative;
     left: 19px;
     padding: 5px;
     border: none;
+    width: 46%;
   }
   .no22 input {
     position: relative;
     left: 85px;
     padding: 5px;
     border: none;
+    width: 46%;
   }
   .no3 input {
-    width: 56.2%;
+    width: 46%;
     position: relative;
     left: 25px;
     padding: 5px;
@@ -934,7 +938,7 @@
     right: 5px;
   }
   .no4 textarea {
-    width: 58.5%;
+    width: 48%;
     height: 80px;
     position: relative;
     left: 65px;

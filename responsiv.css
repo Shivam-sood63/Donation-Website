@@ -904,24 +904,24 @@
     left: 50px;
     padding: 5px;
     border: none;
-    width: 49%;
+    width: 48%;
   }
   .no2 input {
     position: relative;
     left: 19px;
     padding: 5px;
     border: none;
-    width: 49%;
+    width: 48%;
   }
   .no22 input {
     position: relative;
     left: 85px;
     padding: 5px;
     border: none;
-    width: 49%;
+    width: 48%;
   }
   .no3 input {
-    width: 49%;
+    width: 48%;
     position: relative;
     left: 25px;
     padding: 5px;
@@ -938,7 +938,7 @@
     right: 5px;
   }
   .no4 textarea {
-    width: 51.5%;
+    width: 50.5%;
     height: 80px;
     position: relative;
     left: 65px;

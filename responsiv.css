@@ -40,7 +40,7 @@
   .hamburger {
     display: block;
     cursor: pointer;
-    z-index: 10;
+    z-index: 20;
     color: white;
   }
 }
